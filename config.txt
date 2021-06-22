@@ -1,5 +1,6 @@
 --batch-file playlist.txt
--f 'bestvideo[height>=720]+bestaudio/best' --merge-output-format mkv
+-f 'bestaudio[ext=m4a]'
+# -f 'bestvideo[height>=720]+bestaudio/best' --merge-output-format mkv
 --output downloads/%(title)s_%(id)s.%(ext)s
 --continue
 
