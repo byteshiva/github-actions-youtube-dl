@@ -1,4 +1,4 @@
-# Github-actions-youtube-dl ![do](https://github.com/MitsuhaMiyamizu/github-actions-youtube-dl/workflows/do/badge.svg)
+# Github-actions-youtube-dl ![do](https://github.com/byteshiva/github-actions-youtube-dl/workflows/do/badge.svg)
 
 Use GitHub Actions to download the highest-quality YouTube videos and automatically publish them to Release.
 
